@@ -8,4 +8,5 @@ venue: 'MIDL'
 
 ---
 International Conference on Medical Imaging with Deep Learning
+
 [Download paper here](http://nit-hit.github.io/files/paper4.pdf)
