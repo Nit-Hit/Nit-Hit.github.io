@@ -1,7 +1,6 @@
 ---
 title: "Students"
 collection: teaching
-type: "Undergraduate course"
 ---
 
 |  表头   | 表头  |
