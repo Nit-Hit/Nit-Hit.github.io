@@ -1,6 +1,4 @@
 ---
-title: "Students"
-collection: teaching
 ---
 
 |  表头   | 表头  |
