@@ -1,5 +1,4 @@
 ---
-title: "CODES & DATA"
 collection: talks
 type: "Talk"
 permalink: /talks/codes_data
