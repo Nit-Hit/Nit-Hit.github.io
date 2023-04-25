@@ -5,7 +5,9 @@ main:
 
   - title: "Members"
     url: /teaching/  
-
+  
+  - title: "Codes and data"
+    url: /talks/  
     
   - title: "CV"
     url: /cv/
