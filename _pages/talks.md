@@ -8,6 +8,6 @@ A paper without accessible codes and data is just a paper. Otherwise, it may be 
 
 |Year| Published at| Title|Paper|Codes and Data|
 |:----|:----|:----|:----|:----|
-|2022| | PDF|Link |
+|2022| | | PDF|Link |
 
 
