@@ -12,5 +12,6 @@ A paper without accessible codes and data is just a paper. Otherwise, it may be 
 |2023|NeuroImage* |Mapping lamellar organization to the MRI-based hippocampal morphology by an axis-referenced morphometric modelMapping lamellar organization to the MRI-based hippocampal morphology by an axis-referenced morphometric model|[PDF](https:///Nit-Hit.github.io/paper-code/paper/02.pdf)|[Link](https://github.com/calliegao/ARMM) |
 |2023|JBHI* |ADECOR-Net: Improving COVID-19 Lung Infection Segmentation Network with Amplified and Decorrelated Low-level Features|[PDF](https:///Nit-Hit.github.io/paper-code/paper/03.pdf)| |
 |2023|JBHI* |A Chebyshev Confidence Guided Framework in Source-Free Domain Adaptation for Medical Image Segmentation|[PDF](https:///Nit-Hit.github.io/paper-code/paper/04.pdf)| |
+|2023|CIBM* |Accelerating Denoising Diffusion Probabilistic Model via Truncated Inverse Processes for Medical Image Segmentation|[PDF](https:///Nit-Hit.github.io/paper-code/paper/05.pdf)|[Link](https://github.com/Guoxt/ADDPM)  |
 
 
