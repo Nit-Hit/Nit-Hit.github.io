@@ -1,4 +1,4 @@
-![image](https://github.com/Nit-Hit/Nit-Hit.github.io/assets/128766475/bf119eda-b47a-4b4c-832c-5c620368b7da)---
+
 layout: archive
 title: "CODES & DATA"
 permalink: /talks/
