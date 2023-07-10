@@ -17,3 +17,8 @@ A paper without accessible codes and data is just a paper. Otherwise, it may be 
 |2023|Neural Networks|A deep connectome learning network using graph convolution for connectome-disease association study|[PDF](https:///Nit-Hit.github.io/paper-code/paper/07.pdf)|[Link](https://github.com/podismine/MDCN)  |
 |2023|MIDL|Incomplete learning of multi-modal connectome for brain disorder diagnosis via modal-mixup and deep supervision|[PDF](https:///Nit-Hit.github.io/paper-code/paper/08.pdf)|[Link](https://github.com/podismine/IncompleteModality)  |
 |2023|TMI|Mapping Multi-modal Brain Connectome for Brain Disorder Diagnosis via Cross-modal Mutual Learning|[PDF](https:///Nit-Hit.github.io/paper-code/paper/09.pdf)|[Link](https://github.com/podismine/Cross-GNN.)  |
+|2023|TNNLS*|Hypercomplex-valued Graph Neural Network: Towards Deep Intersection Coupling of Multi-modal Brain Networks|[PDF](https:///Nit-Hit.github.io/paper-code/paper/10.pdf)| |
+|2022|BIBM|Modeling Annotator Variation and Annotator Preference for Multiple Annotations Medical Image Segmentation|[PDF](https:///Nit-Hit.github.io/paper-code/paper/11.pdf)| |
+|2022|ICIP|Estimating Brain Age with Global and Local Dependencies|[PDF](https:///Nit-Hit.github.io/paper-code/paper/12.pdf)| |
+|2022|HBM|Brain age vector: A measure of brain aging with enhanced neurodegenerative disorder specificity|[PDF](https:///Nit-Hit.github.io/paper-code/paper/13.pdf)|[Link](https://github.com/Kecici/Brain-age-vector-construction.git.) |
+|2022|MIDL|Regularizing Brain Age Prediction via Gated Knowledge Distillation|[PDF](https:///Nit-Hit.github.io/paper-code/paper/14.pdf)|[Link](https://github.com/podismine/BrainAgeReg) |
