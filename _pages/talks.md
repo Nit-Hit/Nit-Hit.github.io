@@ -13,5 +13,7 @@ A paper without accessible codes and data is just a paper. Otherwise, it may be 
 |2023|JBHI* |ADECOR-Net: Improving COVID-19 Lung Infection Segmentation Network with Amplified and Decorrelated Low-level Features|[PDF](https:///Nit-Hit.github.io/paper-code/paper/03.pdf)| |
 |2023|JBHI* |A Chebyshev Confidence Guided Framework in Source-Free Domain Adaptation for Medical Image Segmentation|[PDF](https:///Nit-Hit.github.io/paper-code/paper/04.pdf)| |
 |2023|CIBM* |Accelerating Denoising Diffusion Probabilistic Model via Truncated Inverse Processes for Medical Image Segmentation|[PDF](https:///Nit-Hit.github.io/paper-code/paper/05.pdf)|[Link](https://github.com/Guoxt/ADDPM)  |
+|2023|ICASSP|TENSOR-BASED COMPLEX-VALUED GRAPH NEURAL NETWORK FOR DYNAMIC COUPLING MULTIMODAL BRAIN NETWORKS|[PDF](https:///Nit-Hit.github.io/paper-code/paper/06.pdf)| |
+|2023|Neural Networks|A deep connectome learning network using graph convolution for connectome-disease association study|[PDF](https:///Nit-Hit.github.io/paper-code/paper/07.pdf)|[Link](https://github.com/podismine/MDCN)  |
 
 
