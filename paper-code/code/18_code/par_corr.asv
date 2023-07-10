@@ -1,0 +1,70 @@
+%-----------------------------------------------------------------------
+% Chenfei Ye 02/08/2017
+% This script is designed for calculating correlation between each parcel
+% and amyloid 
+% ------cye7@jhu.edu
+function stat_parcel=par_corr(num,raw_var,amyloid,topnum)
+stat_parcel=cell(topnum+1,3);
+stat_parcel(1,1)={'Parcel'};
+stat_parcel(1,2)={'Rvalu'};
+stat_parcel(1,3)={'pValue'};
+par_corr=cell(length(raw_var),3);
+par_corr(:,1)=raw_var';
+for i = 1: length(raw_var)
+    [r,p]=corr(amyloid,num(:,i));
+    par_corr(i,2)={r};
+    par_corr(i,3)={p};
+end
+[abs_corr,idx]=sort(abs(cell2mat(par_corr(:,2))),'descend');
+stat_parcel(2:end,:)=par_corr(idx(1:topnum),:);
+disp(' ')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+% for m=1:length(raw_var)
+%     idx=find(p_matrix_005(m,:)<0.05);
+%     if ~isempty(idx)
+%         for i =1:length(idx)
+%             p_cell_005(m,i+1)={[char(raw_var_L5(m)),' & ',char(raw_var_L5(idx(i))),' P=',num2str(p_matrix_005(m,idx(i)))]};
+%             if nargin==4
+%                 [r_amy,p_amy]=corr(amyloid,ratiologAll(:,m,idx(i)));
+%                 p_cell_amyloid(m,i+1)={[char(raw_var_L5(m)),' & ',char(raw_var_L5(idx(i))),' R=',num2str(r_amy),' P=',num2str(p_amy)]};
+% %                 figure;
+% %                 scatter(amyloid,ratiologAll(:,m,idx(i)),'b','*');
+% %                 lsline;
+% %                 title(['Correlation (parcel) between amyloid and ',str,' with R=',num2str(R(1,2)),' p=',num2str(P(1,2))])
+%             end
+%         end
+%     end
+% end
+% 
+% 
+% 
+% 
+% number=size(num,2);
+% for i = 1:size(num,2)
+%     amyloid(:,2)=num(:,i);
+%     [R,P] = corrcoef(amyloid);
+%     figure;
+%     h_fig=scatter(amyloid(:,1),amyloid(:,2),'b','*');
+%     str=char(raw_var(i)); % name of parcel
+%     title(['Correlation (parcel) between amyloid and ',str,' with R=',num2str(R(1,2)),' p=',num2str(P(1,2))])
+%     lsline;
+%     if strfind(str,'/')
+%         str(strfind(str,'/'))='.';
+%     end
+%     saveas(h_fig,[str,'.jpg'])
+% end
+% 
+% 
