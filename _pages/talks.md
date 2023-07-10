@@ -15,5 +15,5 @@ A paper without accessible codes and data is just a paper. Otherwise, it may be 
 |2023|CIBM* |Accelerating Denoising Diffusion Probabilistic Model via Truncated Inverse Processes for Medical Image Segmentation|[PDF](https:///Nit-Hit.github.io/paper-code/paper/05.pdf)|[Link](https://github.com/Guoxt/ADDPM)  |
 |2023|ICASSP|TENSOR-BASED COMPLEX-VALUED GRAPH NEURAL NETWORK FOR DYNAMIC COUPLING MULTIMODAL BRAIN NETWORKS|[PDF](https:///Nit-Hit.github.io/paper-code/paper/06.pdf)| |
 |2023|Neural Networks|A deep connectome learning network using graph convolution for connectome-disease association study|[PDF](https:///Nit-Hit.github.io/paper-code/paper/07.pdf)|[Link](https://github.com/podismine/MDCN)  |
-
-
+|2023|MIDL|Incomplete learning of multi-modal connectome for brain disorder diagnosis via modal-mixup and deep supervision|[PDF](https:///Nit-Hit.github.io/paper-code/paper/08.pdf)|[Link](https://github.com/podismine/IncompleteModality)  |
+|2023|TMI|Mapping Multi-modal Brain Connectome for Brain Disorder Diagnosis via Cross-modal Mutual Learning|[PDF](https:///Nit-Hit.github.io/paper-code/paper/09.pdf)|[Link](https://github.com/podismine/Cross-GNN.)  |
