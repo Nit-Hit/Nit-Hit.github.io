@@ -1,4 +1,4 @@
----
+![image](https://github.com/Nit-Hit/Nit-Hit.github.io/assets/128766475/bf119eda-b47a-4b4c-832c-5c620368b7da)---
 layout: archive
 title: "CODES & DATA"
 permalink: /talks/
@@ -9,5 +9,6 @@ A paper without accessible codes and data is just a paper. Otherwise, it may be 
 |Year| Published at| Title|Paper|Codes and Data|
 |:----|:----|:----|:----|:----|
 |2023|HBM* |MR-based spatiotemporal anisotropic atrophy evaluation of hippocampus in AD progression by multiscale skeletal representation|[PDF](https:///Nit-Hit.github.io/paper-code/paper/01.pdf)|[Link](https://github.com/calliegao/m-s-rep) |
+|2023|NeuroImage* |Mapping lamellar organization to the MRI-based hippocampal morphology by an axis-referenced morphometric modelMapping lamellar organization to the MRI-based hippocampal morphology by an axis-referenced morphometric model|[PDF](https:///Nit-Hit.github.io/paper-code/paper/02.pdf)|[Link](https://github.com/calliegao/ARMM) |
 
 
