@@ -22,3 +22,5 @@ A paper without accessible codes and data is just a paper. Otherwise, it may be 
 |2022|ICIP|Estimating Brain Age with Global and Local Dependencies|[PDF](https:///Nit-Hit.github.io/paper-code/paper/12.pdf)| |
 |2022|HBM|Brain age vector: A measure of brain aging with enhanced neurodegenerative disorder specificity|[PDF](https:///Nit-Hit.github.io/paper-code/paper/13.pdf)|[Link](https://github.com/Kecici/Brain-age-vector-construction.git) |
 |2022|MIDL|Regularizing Brain Age Prediction via Gated Knowledge Distillation|[PDF](https:///Nit-Hit.github.io/paper-code/paper/14.pdf)|[Link](https://github.com/podismine/BrainAgeReg) |
+|2022|BIBM|Multi-modal Dynamic Graph Network: Coupling Structural and Functional Connectome for Disease Diagnosis and Classificationn|[PDF](https:///Nit-Hit.github.io/paper-code/paper/15.pdf)|[Link](https://github.com/podismine/Cross-GNN) |
+
